@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.example.bazar.service;
 
 import com.example.bazar.dto.ProductoSinVentasDTO;
@@ -15,10 +10,6 @@ import com.example.bazar.model.Venta;
 import java.time.LocalDate;
 import java.util.List;
 
-/**
- *
- * @author Hernán Misael
- */
 public interface IVentaService {
     
     //traer todas las ventas 
